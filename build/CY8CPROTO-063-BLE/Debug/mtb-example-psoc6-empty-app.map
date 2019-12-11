@@ -75,6 +75,14 @@ Discarded input sections
  .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.o
  .data          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/TOOLCHAIN_GCC_ARM/cy_syslib_gcc.o
  .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/TOOLCHAIN_GCC_ARM/cy_syslib_gcc.o
+ .text          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .data          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_line    0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_str     0x00000000      0x14b C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .comment       0x00000000       0x7f C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .ARM.attributes
+                0x00000000       0x37 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
  .text          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o
  .data          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o
  .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o
@@ -4738,6 +4746,14 @@ Discarded input sections
  .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
  .text.cycfg_ClockStartupError
                 0x00000000        0x2 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
+ .text          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .data          0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .bss           0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_line    0x00000000        0x0 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_str     0x00000000      0x14b C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .comment       0x00000000       0x7f C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .ARM.attributes
+                0x00000000       0x37 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
  .text          0x00000000        0x0 ./libs/capsense/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/libcy_capsense.a(cy_capsense_smartsense_hw_lib.o)
  .data          0x00000000        0x0 ./libs/capsense/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/libcy_capsense.a(cy_capsense_smartsense_hw_lib.o)
  .bss           0x00000000        0x0 ./libs/capsense/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/libcy_capsense.a(cy_capsense_smartsense_hw_lib.o)
@@ -4909,6 +4925,7 @@ LOAD c:/modustoolbox/tools_2.0/gcc-7.2.1/bin/../lib/gcc/arm-none-eabi/7.2.1/thum
 LOAD c:/modustoolbox/tools_2.0/gcc-7.2.1/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp/crt0.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/TOOLCHAIN_GCC_ARM/cy_syslib_gcc.o
+LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_clocks.o
@@ -5048,6 +5065,7 @@ LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PS
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_usbfs_dev_drv_io_dma.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_wdt.o
 LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
+LOAD C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
 START GROUP
 LOAD ./libs/capsense/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/libcy_capsense.a
 END GROUP
@@ -5858,7 +5876,7 @@ OUTPUT(C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_
  .comment       0x0000007e       0x7f C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_syspm.o
  .comment       0x0000007e       0x7f C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
 
-.debug_line     0x00000000     0x5ca9
+.debug_line     0x00000000     0x5ca8
  .debug_line    0x00000000       0xc8 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.o
  .debug_line    0x000000c8       0x7f C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/TOOLCHAIN_GCC_ARM/cy_syslib_gcc.o
  .debug_line    0x00000147      0x3d8 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o
@@ -5879,7 +5897,7 @@ OUTPUT(C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_
  .debug_line    0x000045db      0x249 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_sysint.o
  .debug_line    0x00004824      0x446 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_syslib.o
  .debug_line    0x00004c6a      0xa77 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_syspm.o
- .debug_line    0x000056e1      0x5c8 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
+ .debug_line    0x000056e1      0x5c7 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/main.o
 
 .debug_info     0x00000000    0x2f75f
  .debug_info    0x00000000       0x26 C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/TOOLCHAIN_GCC_ARM/startup_psoc6_01_cm4.o

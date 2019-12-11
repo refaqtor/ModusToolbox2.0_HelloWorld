@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Onethinx_Tomislav\ModusToolbox\ModusToolbox2Examples\HelloWorld_MTB2.0_API-B2"/>
+		<item value="C:\Onethinx_Tomislav\ModusToolbox\ModusToolbox2Examples\HelloWorld_MTB2.0_API-B2\Empty_PSoC6_App"/>
+	</list>
+	<list key="installedFeatures">
+		<item value="com.cypress.studio.feature:2.0.0"/>
+		<item value="ilg.gnumcueclipse.debug.gdbjtag.jlink.feature:4.3.4.201901011632"/>
+		<item value="ilg.gnumcueclipse.debug.gdbjtag.openocd.feature:4.3.3.201901011632"/>
+		<item value="ilg.gnumcueclipse.debug.gdbjtag.pyocd.feature:1.3.3.201901011632"/>
+		<item value="ilg.gnumcueclipse.managedbuild.cross.arm.feature:2.6.4.201901011632"/>
+		<item value="org.eclipse.cdt.build.crossgcc:9.6.0.201811241055"/>
+		<item value="org.eclipse.cdt.debug.gdbjtag:9.6.0.201811241055"/>
+		<item value="org.eclipse.cdt.gdb.source:9.6.0.201811241055"/>
+		<item value="org.eclipse.cdt.gdb:9.6.0.201811241055"/>
+		<item value="org.eclipse.cdt.launch.remote:9.6.0.201811241055"/>
+		<item value="org.eclipse.cdt.sdk:9.6.0.201812111211"/>
+		<item value="org.eclipse.cdt:9.6.0.201812111211"/>
+		<item value="org.eclipse.egit:5.2.0.201812061821-r"/>
+		<item value="org.eclipse.emf.common:2.15.0.v20180914-1817"/>
+		<item value="org.eclipse.emf.ecore:2.16.0.v20181124-0637"/>
+		<item value="org.eclipse.help:2.2.400.v20181206-0815"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.2.0.201812061821-r"/>
+		<item value="org.eclipse.jgit:5.2.0.201812061821-r"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.discovery:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.monitor:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.25.201806201740"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.25.201806201740"/>
+		<item value="org.eclipse.mylyn_feature:3.24.2.v20180905-0003"/>
+		<item value="org.eclipse.platform:4.10.0.v20181206-0815"/>
+		<item value="org.eclipse.rcp:4.10.0.v20181206-0815"/>
+	</list>
+</section>

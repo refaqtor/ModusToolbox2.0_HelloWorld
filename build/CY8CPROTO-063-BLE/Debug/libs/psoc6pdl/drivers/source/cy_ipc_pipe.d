@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_ipc_pipe.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_ipc_pipe.o: \
  libs/psoc6pdl/drivers/source/cy_ipc_pipe.c \
  libs/psoc6pdl/drivers/include/cy_ipc_pipe.h \
  libs/psoc6pdl/drivers/include/cy_ipc_drv.h \

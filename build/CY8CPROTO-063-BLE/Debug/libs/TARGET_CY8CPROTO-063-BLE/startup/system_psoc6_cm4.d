@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/system_psoc6_cm4.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/startup/system_psoc6_cm4.o: \
  libs/TARGET_CY8CPROTO-063-BLE/startup/system_psoc6_cm4.c \
  libs/TARGET_CY8CPROTO-063-BLE/startup/system_psoc6.h \
  libs/psoc6pdl/drivers/include/cy_device.h \

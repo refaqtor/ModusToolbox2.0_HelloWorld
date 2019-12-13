@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_system.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_system.o: \
  libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_system.c \
  libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_system.h \
  libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/GeneratedSource/cycfg_notices.h \

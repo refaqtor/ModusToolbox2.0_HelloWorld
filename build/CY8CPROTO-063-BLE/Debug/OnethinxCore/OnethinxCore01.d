@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/OnethinxCore/OnethinxCore01.o: \
  OnethinxCore/OnethinxCore01.c OnethinxCore/OnethinxCore01.h \
  libs/psoc6pdl/drivers/include/cy_ipc_pipe.h \
  libs/psoc6pdl/drivers/include/cy_ipc_drv.h \

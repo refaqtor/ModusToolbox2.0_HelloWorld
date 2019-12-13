@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/cybsp.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/TARGET_CY8CPROTO-063-BLE/cybsp.o: \
  libs/TARGET_CY8CPROTO-063-BLE/cybsp.c \
  libs/TARGET_CY8CPROTO-063-BLE/cybsp.h libs/core-lib/include/cy_result.h \
  libs/TARGET_CY8CPROTO-063-BLE/cybsp_types.h \

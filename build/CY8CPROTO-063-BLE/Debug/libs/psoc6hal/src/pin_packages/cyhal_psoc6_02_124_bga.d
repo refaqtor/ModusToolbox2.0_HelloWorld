@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/pin_packages/cyhal_psoc6_02_124_bga.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/pin_packages/cyhal_psoc6_02_124_bga.o: \
  libs/psoc6hal/src/pin_packages/cyhal_psoc6_02_124_bga.c \
  libs/psoc6pdl/devices/include/cy_device_headers.h \
  libs/psoc6pdl/devices/include/cyble_416045_02.h \

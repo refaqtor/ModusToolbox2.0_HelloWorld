@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_wdt.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_wdt.o: \
  libs/psoc6hal/src/cyhal_wdt.c libs/psoc6hal/include/cyhal_wdt.h \
  libs/psoc6hal/include/cyhal_hwmgr.h libs/core-lib/include/cy_result.h \
  libs/psoc6hal/include/cyhal_hw_types.h \

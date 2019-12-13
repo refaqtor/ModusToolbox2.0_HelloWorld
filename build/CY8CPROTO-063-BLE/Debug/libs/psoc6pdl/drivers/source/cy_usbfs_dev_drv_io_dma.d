@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_usbfs_dev_drv_io_dma.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_usbfs_dev_drv_io_dma.o: \
  libs/psoc6pdl/drivers/source/cy_usbfs_dev_drv_io_dma.c \
  libs/psoc6pdl/drivers/include/cy_usbfs_dev_drv_pvt.h \
  libs/psoc6pdl/drivers/include/cy_usbfs_dev_drv.h \

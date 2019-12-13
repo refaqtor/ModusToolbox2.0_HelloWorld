@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_scb_ezi2c.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_scb_ezi2c.o: \
  libs/psoc6pdl/drivers/source/cy_scb_ezi2c.c \
  libs/psoc6pdl/drivers/include/cy_scb_ezi2c.h \
  libs/psoc6pdl/drivers/include/cy_scb_common.h \

@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_dac.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_dac.o: \
  libs/psoc6hal/src/cyhal_dac.c \
  libs/psoc6hal/include/cyhal_analog_common.h \
  libs/psoc6hal/include/cyhal_dac.h libs/core-lib/include/cy_result.h \

@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_tcpwm_pwm.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_tcpwm_pwm.o: \
  libs/psoc6pdl/drivers/source/cy_tcpwm_pwm.c \
  libs/psoc6pdl/drivers/include/cy_tcpwm_pwm.h \
  libs/psoc6pdl/drivers/include/cy_tcpwm.h \

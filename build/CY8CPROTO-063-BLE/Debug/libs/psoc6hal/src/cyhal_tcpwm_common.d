@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_tcpwm_common.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_tcpwm_common.o: \
  libs/psoc6hal/src/cyhal_tcpwm_common.c \
  libs/psoc6hal/include/cyhal_utils.h \
  libs/psoc6hal/include/cyhal_hw_types.h \

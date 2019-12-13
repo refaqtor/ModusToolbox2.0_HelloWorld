@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6cm0p/COMPONENT_CM0P_SLEEP/psoc6_02_cm0p_sleep.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6cm0p/COMPONENT_CM0P_SLEEP/psoc6_02_cm0p_sleep.o: \
  libs/psoc6cm0p/COMPONENT_CM0P_SLEEP/psoc6_02_cm0p_sleep.c \
  libs/psoc6pdl/devices/include/cy_device_headers.h \
  libs/psoc6pdl/devices/include/cyble_416045_02.h \

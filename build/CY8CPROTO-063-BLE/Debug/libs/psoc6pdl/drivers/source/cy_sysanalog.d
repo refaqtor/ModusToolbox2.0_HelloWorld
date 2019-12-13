@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_sysanalog.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6pdl/drivers/source/cy_sysanalog.o: \
  libs/psoc6pdl/drivers/source/cy_sysanalog.c \
  libs/psoc6pdl/drivers/include/cy_sysanalog.h \
  libs/psoc6pdl/devices/include/cy_device_headers.h \

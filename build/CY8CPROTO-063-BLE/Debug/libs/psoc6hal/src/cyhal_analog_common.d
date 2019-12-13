@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_analog_common.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_analog_common.o: \
  libs/psoc6hal/src/cyhal_analog_common.c \
  libs/psoc6pdl/drivers/include/cy_pdl.h \
  libs/psoc6pdl/drivers/include/cy_device.h \

@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_not_implemented.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/psoc6hal/src/cyhal_not_implemented.o: \
  libs/psoc6hal/src/cyhal_not_implemented.c \
  libs/psoc6hal/include/cyhal_interconnect.h \
  libs/core-lib/include/cy_result.h libs/psoc6hal/include/cyhal_hw_types.h \

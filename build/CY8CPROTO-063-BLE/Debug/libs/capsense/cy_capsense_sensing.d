@@ -1,4 +1,4 @@
-C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/capsense/cy_capsense_sensing.o: \
+C:/Onethinx_Tomislav/ModusToolbox/ModusToolbox2Examples/HelloWorld_MTB2.0_API-B2/Empty_PSoC6_App/build/CY8CPROTO-063-BLE/Debug/libs/capsense/cy_capsense_sensing.o: \
  libs/capsense/cy_capsense_sensing.c \
  libs/psoc6pdl/drivers/include/cy_gpio.h \
  libs/psoc6pdl/drivers/include/cy_device.h \
